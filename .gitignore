@@ -1,0 +1,5 @@
+__pycache__/
+*.mp4
+FRAMES_*/
+*_TRANSCRIPT.md
+reels_summary.json
